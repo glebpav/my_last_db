@@ -1,0 +1,9 @@
+meta:
+{ id , subjName , }
+data:
+{ 0  , Math  , }
+{ 1  , History  , }
+{ 2  , PE  , }
+{ 3  , CyberGaming  , }
+{ 4  , lil  , }
+{ 5 , lol , }

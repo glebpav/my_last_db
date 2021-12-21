@@ -1,0 +1,9 @@
+meta:
+{ id , fio , age , class , }
+data:
+{ 0  , Pavlyuk GA  , 17  , 11I  , }
+{ 1  , Pupkin NG  , 23  , 1B  , }
+{ 2  , Ivanov LM  , 0  , 5A  , }
+{ 3  , Lev SA  , 99  , 7A  , }
+{ 4  , Absdf sd  , 23  , 12 G  , }
+{ 5  , kkkkk , ---  , ---  , }
